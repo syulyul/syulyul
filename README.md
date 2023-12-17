@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div align=center>
-	<h3> 🌱 SNS & Portfolio 🌱 </h3>
+	<h3> 🌱 SNS 🌱 </h3>
 </div>
 <div align=center>
 <!-- Hits -->
@@ -29,9 +29,6 @@ Here are some ideas to get you started:
 	</a>
 	<a href="mailto:syul9800@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-0052CC?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<a href="https://github.com/syulyul">
-		<img src="https://img.shields.io/badge/Portfolio%20Link-7B68EE" />
 	</a>
 </div>
 <br>
