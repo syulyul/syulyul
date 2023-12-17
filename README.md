@@ -15,6 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<div align=center>
+	<h3> 🌱 SNS & Portfolio 🌱 </h3>
+</div>
+<div align=center>
+<!-- Hits -->
+<a href="https://hits.seeyoufarm.com">
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyulyul%2Fhit-counter&count_bg=%23939393&title_bg=%23262626&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</a>
+	<a href="https://la-reveuse.tistory.com">
+		<img src="https://img.shields.io/badge/Blog-EA4335?style=flat&logo=tistory&logoColor=white" />
+	</a>
+	<a href="mailto:syul9800@gmail.com">
+		<img src="https://img.shields.io/badge/Mail-0052CC?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+	<a href="https://ninth-dancer-eb1.notion.site/c530399da1c44279b5856c8ced0b8f8c?pvs=4">
+		<img src="https://img.shields.io/badge/Portfolio%20Link-7B68EE" />
+	</a>
+</div>
+<br>
+<br>
+
+
+
 <!--
 기술 스택 아이콘
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img alt="메모" src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
@@ -22,8 +46,9 @@ flat (default), flat-square, plastic, for-the-badge, social
 주석 처리 된 기술 => 숙련도 미흡 또는 습득 예정
 -->
 
+
 <div align=left>
-	<h3>🌱Tech Stack🌱</h3>
+	<h3>🌱 Tech Stack 🌱</h3>
 	<table width="100%">
 	  <tr>
 			<th rowspan="1">
@@ -127,13 +152,11 @@ flat (default), flat-square, plastic, for-the-badge, social
 				<!-- <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" /> -->
 		</tr>
 	</table>
-  <br>
-  <br>
+  <br><br><br><br><br>
 </div>
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=syulyul&show_icons=true&theme=buefy" />
 </div>
-
-
+	
 ![](./profile-3d-contrib/profile-gitblock.svg)
