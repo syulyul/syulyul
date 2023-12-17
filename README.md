@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 	<h3> ✉️ Contact ✉️ </h3>
 </div>
 <div align=center>
-<!-- Hits -->
-<a href="https://hits.seeyoufarm.com">
-	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyulyul%2Fhit-counter&count_bg=%23939393&title_bg=%23262626&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</a>
+	<!-- Hits -->
+	<a href="https://hits.seeyoufarm.com">
+		<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyulyul%2Fhit-counter&count_bg=%23939393&title_bg=%23262626&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+	</a>
 	<a href="https://la-reveuse.tistory.com">
 		<img src="https://img.shields.io/badge/Blog-EA4335?style=flat&logo=tistory&logoColor=white" />
 	</a>
@@ -46,7 +46,7 @@ flat (default), flat-square, plastic, for-the-badge, social
 
 <div align=left>
 	<h3>🌱 Tech Stack 🌱</h3>
-	<table width="100%">
+	<table width: 100%>
 	  <tr>
 			<th rowspan="1">
 				<font><b>Base</b></font>
@@ -148,8 +148,22 @@ flat (default), flat-square, plastic, for-the-badge, social
 				<!-- <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /> -->
 				<!-- <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" /> -->
 		</tr>
+		<th rowspan="4"><font><b>Experience</b></font></th>
+		<tr>
+			<td>Language</td>
+			<td>
+				<img alt="C++" src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat" />
+				<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" />
+			</td>
+		</tr>
+		<tr>
+			<td>DB</td>
+			<td>
+				<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000.svg?style=flat&logo=Oracle&logoColor=white" />
+			</td>
+		</tr>
 	</table>
-  <br><br><br><br><br>
+  <br><br><br><br>
 </div>
 
 <div>
