@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div align=center>
-	<h3> 🌱 SNS 🌱 </h3>
+	<h3> ✉️ Connect ✉️ </h3>
 </div>
 <div align=center>
 <!-- Hits -->
