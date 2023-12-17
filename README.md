@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 	<a href="mailto:syul9800@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-0052CC?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://ninth-dancer-eb1.notion.site/c530399da1c44279b5856c8ced0b8f8c?pvs=4">
+	<a href="https://github.com/syulyul">
 		<img src="https://img.shields.io/badge/Portfolio%20Link-7B68EE" />
 	</a>
 </div>
