@@ -44,7 +44,7 @@ flat (default), flat-square, plastic, for-the-badge, social
 -->
 
 
-<div align=left>
+<div align=center>
 	<h3>🌱 Tech Stack 🌱</h3>
 	<table width: 100%>
 	  <tr>
@@ -166,8 +166,24 @@ flat (default), flat-square, plastic, for-the-badge, social
   <br><br><br><br>
 </div>
 
-<div>
+<div align=center>
+	<!-- 백준 티어 -->
+	<!-- <a href="https://solved.ac/la_reveuse">
+		<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=la_reveuse"/>
+	</a> -->
+	<a href="https://solved.ac/la_reveuse">
+		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=la_reveuse"/>
+	  <img src="http://mazandi.herokuapp.com/api?handle=la_reveuse&theme=cold"/>
+	</a>
+	<br>
+  <br>
+  <br>
+</div>
+
+<div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=syulyul&show_icons=true&theme=buefy" />
 </div>
+
+
 	
 ![](./profile-3d-contrib/profile-gitblock.svg)
