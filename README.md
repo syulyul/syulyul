@@ -171,10 +171,10 @@ flat (default), flat-square, plastic, for-the-badge, social
 	<!-- <a href="https://solved.ac/la_reveuse">
 		<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=la_reveuse"/>
 	</a> -->
-	<a href="https://solved.ac/la_reveuse/">
+<!-- 	<a href="https://solved.ac/la_reveuse/"> -->
 	  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=la_reveuse"/>
 	  <img src="https://mazandi.herokuapp.com/api?handle=la_reveuse&theme=cold"/>
-	</a>
+<!-- 	</a> -->
 	<br>
   <br>
   <br>
